@@ -2,8 +2,8 @@
 //  Download.swift
 //  HalfTunes
 //
-//  Created by Andy Obusek on 9/19/15.
-//  Copyright © 2015 Ken Toh. All rights reserved.
+//  Created by DVP on 11/05/17.
+//  Copyright (c) 2017 DVP . All rights reserved.
 //
 
 import Foundation

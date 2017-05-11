@@ -2,8 +2,8 @@
 //  Track.swift
 //  HalfTunes
 //
-//  Created by Ken Toh on 13/7/15.
-//  Copyright (c) 2015 Ken Toh. All rights reserved.
+//  Created by DVP on 11/05/17.
+//  Copyright (c) 2017 DVP. All rights reserved.
 //
 
 class Track {
